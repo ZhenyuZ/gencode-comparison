@@ -1,2 +1,1 @@
-# bio-template
-Template repository for bioinf
+GENCODE v22 vs v36 comparison
